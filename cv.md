@@ -1,4 +1,4 @@
-![photo Artem Pryimenko](./img/my-photo.jpg)
+![photo Artem Pryimenko](./assets/img/my-photo.jpg)
 
 # **Artem Pryimenko**
 
@@ -45,6 +45,9 @@ Work examples:
 * https://sunny-frangipane-723ebf.netlify.app
 * https://stalwart-salamander-87a3b0.netlify.app
 * https://ornate-frangipane-c0bfbe.netlify.app
+
+## **Projects:**
+* https://artem55586.github.io/rsschool-cv/
 
 ## **Work experience:**
 
